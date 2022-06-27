@@ -21,6 +21,11 @@ A combinational circuit simulator web for Windows written in python.
 ![UI Screenshot](https://user-images.githubusercontent.com/101112022/175897386-71e04fda-5827-4508-a7e8-1546ae69dfe1.png)
 
 ![ Results Screenshot](https://user-images.githubusercontent.com/101112022/175897577-6678e610-4e4c-47c8-b5a5-6b46dfc06560.png)
+## 🔗Web Links
+- https://aayush-gangwar-combinational-circuit-simulator-app-bm52bv.streamlitapp.com/
+
+
+
 ## Installation
 
 Install 
@@ -31,8 +36,10 @@ pip install requirements.txt
     
 ## Deployment
 
-To deploy this project run
+- Directly open the web link
+
+- To deploy this project run
 ```bash
-streamlit run app.py
+    streamlit run app.py
 ```
 
