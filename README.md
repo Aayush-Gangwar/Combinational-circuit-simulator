@@ -31,7 +31,7 @@ A combinational circuit simulator web for Windows written in python.
 Install 
 
 ```bash
-pip install requirements.txt
+pip install -r requirements.txt
 ```
     
 ## Deployment
